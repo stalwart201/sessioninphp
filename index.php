@@ -1,1 +1,1 @@
-//file to create a session in php
+/*file to create a session in php*/
